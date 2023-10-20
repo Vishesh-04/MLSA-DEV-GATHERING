@@ -9,7 +9,7 @@ body {
 }
 
 .navbar {
-  position: relative;
+  position: sticky;
   font-size: 25px;
   background: transparent;
 }
