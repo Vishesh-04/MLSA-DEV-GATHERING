@@ -1,5 +1,5 @@
-# HackRCDU, Turington'20
+# MLSA DEV GATHERING, MIET'24
 
-> ## Ramanujan College, University of Delhi
+> ## MIET MEERUT
 
 ![](./assets/Screenshot_HackRCDU.png)
