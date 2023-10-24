@@ -88,8 +88,8 @@ body {
 
   .main-nav li a {
     border-radius: 10px;
-    background: #feb249;
-    color: black;
+    /* background: #feb249; */
+    color: white;
     padding: 10px;
     font-size: 1.4rem;
     transform: scale(1);
@@ -97,6 +97,11 @@ body {
 
   .main-nav li:hover {
     transform: scale(1.2) rotateZ(3deg);
+  }
+
+  .main-nav li a:hover{
+    color: black;
+    border: 1px solid black;
   }
 
   .nav-links {
