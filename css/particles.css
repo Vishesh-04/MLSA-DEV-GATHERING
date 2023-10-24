@@ -23,7 +23,7 @@ canvas {
   background-position: 50% 50%;*/
   background: #53d3d1;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to bottom right, #002447, #53D3D1);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(115deg, #002447, #53D3D1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: linear-gradient(140deg, #002447, #53D3D1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 } 
 
 /* ---- stats.js ---- */
