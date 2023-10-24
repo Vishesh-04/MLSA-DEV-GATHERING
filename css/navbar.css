@@ -10,6 +10,7 @@ body {
 
 .navbar {
   position: sticky;
+  top: 0;
   font-size: 25px;
   background: transparent;
 }
@@ -87,8 +88,8 @@ body {
 
   .main-nav li a {
     border-radius: 10px;
-    background: #fbeceb;
-    color: #fff;
+    background: #feb249;
+    color: black;
     padding: 10px;
     font-size: 1.4rem;
     transform: scale(1);

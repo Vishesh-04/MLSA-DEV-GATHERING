@@ -29,7 +29,7 @@ body {
     to bottom right,
     #3f5efb,
     #fc466b
-  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  );/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .hackrcdu {
@@ -77,7 +77,7 @@ body {
   -ms-flex-align: center;
   -webkit-box-align: center;
   align-items: center;
-  background-color: #3770ff;
+  background-color: #feb249;
   border-radius: 3px;
   border: none;
   color: #ffffff;
