@@ -2,4 +2,4 @@
 
 > ## MIET MEERUT
 
-![](./assets/Screenshot_HackRCDU.png)
+![](./assets/MLSA%20DEV%20GATHERING.png)
