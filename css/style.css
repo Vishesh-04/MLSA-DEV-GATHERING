@@ -17,7 +17,7 @@ body {
   min-height: 100vh;
 }
 header{
-  height: 100vh;
+  height: 110vh;
 }
 .hero-section {
   position: relative;
@@ -125,7 +125,6 @@ header{
 .about-section {
   background: white;
   display: flex;
-  padding: 30px;
   flex-direction: column;
   align-items: center;
   font-size: 1.5rem;
